@@ -1,0 +1,21 @@
+.gallery-container {
+    padding: 5rem;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    height: 250px; 
+    object-fit: cover;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+ 
+
+
+  
