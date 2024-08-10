@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an Axios instance with base URL and headers
 const apis = axios.create({
-    baseURL: 'http://localhost:5091', // Ensure this is the correct URL for your backend
+    baseURL: 'https://image-gallery-backend-oh9e.onrender.com', // Ensure this is the correct URL for your backend
     headers: {
         'Content-Type': 'application/json',
     },

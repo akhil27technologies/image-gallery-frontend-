@@ -81,7 +81,7 @@ function Gallery() {
           />
          
         </Modal.Body>
-        <p className='m-2 text'>{selectedImage?.description}</p>
+        <p className='m-2 text-center'>{selectedImage?.description}</p>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
             Cancel
